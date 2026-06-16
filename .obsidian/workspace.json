@@ -11,13 +11,14 @@
             "id": "1132d3ac2f8f00a0",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "無題のファイル.base",
-                "viewName": "表"
+                "file": "セカンドブレイン構築メモ.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "無題のファイル"
+              "icon": "lucide-file",
+              "title": "セカンドブレイン構築メモ"
             }
           }
         ]
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "無題のファイル.base",
+                "file": "セカンドブレイン構築メモ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "無題のファイルへのバックリンク"
+              "title": "セカンドブレイン構築メモへのバックリンク"
             }
           },
           {
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "無題のファイル.base",
+                "file": "セカンドブレイン構築メモ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "無題のファイルからのアウトゴーイングリンク"
+              "title": "セカンドブレイン構築メモからのアウトゴーイングリンク"
             }
           },
           {
@@ -155,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "無題のファイル.base",
+                "file": "セカンドブレイン構築メモ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "無題のファイルのアウトライン"
+              "title": "セカンドブレイン構築メモのアウトライン"
             }
           },
           {
@@ -195,7 +196,14 @@
   },
   "active": "1132d3ac2f8f00a0",
   "lastOpenFiles": [
-    "ようこそ.md",
-    "無題のファイル.base"
+    "test.md",
+    "memo4.md",
+    "memo3.md",
+    "memo2.md",
+    "memo.md",
+    "2026-06-16-1220.md",
+    "無題のファイル.base",
+    "セカンドブレイン構築メモ.md",
+    "ようこそ.md"
   ]
 }
