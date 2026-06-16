@@ -4,11 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b074e6b2fe99a4d6",
+        "id": "3974b2d436262e73",
         "type": "tabs",
         "children": [
           {
-            "id": "1132d3ac2f8f00a0",
+            "id": "e336bdb4baefc9e7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
+            }
+          },
+          {
+            "id": "50aae49e9a55922f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +31,8 @@
               "title": "セカンドブレイン構築メモ"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,8 +205,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1132d3ac2f8f00a0",
+  "active": "50aae49e9a55922f",
   "lastOpenFiles": [
+    "セカンドブレイン運用メモ（現状版）.md",
+    "セカンドブレイン構築メモ.md",
+    "無題のファイル.md",
     "2026-06-16-124258.md",
     "test.md",
     "memo4.md",
@@ -204,7 +218,6 @@
     "memo.md",
     "2026-06-16-1220.md",
     "無題のファイル.base",
-    "セカンドブレイン構築メモ.md",
     "ようこそ.md"
   ]
 }
